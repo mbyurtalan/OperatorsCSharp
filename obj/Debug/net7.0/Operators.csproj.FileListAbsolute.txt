@@ -1,0 +1,15 @@
+/Users/mert/Desktop/AppDev/CS/Operators/bin/Debug/net7.0/Operators
+/Users/mert/Desktop/AppDev/CS/Operators/bin/Debug/net7.0/Operators.deps.json
+/Users/mert/Desktop/AppDev/CS/Operators/bin/Debug/net7.0/Operators.runtimeconfig.json
+/Users/mert/Desktop/AppDev/CS/Operators/bin/Debug/net7.0/Operators.dll
+/Users/mert/Desktop/AppDev/CS/Operators/bin/Debug/net7.0/Operators.pdb
+/Users/mert/Desktop/AppDev/CS/Operators/obj/Debug/net7.0/Operators.csproj.AssemblyReference.cache
+/Users/mert/Desktop/AppDev/CS/Operators/obj/Debug/net7.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mert/Desktop/AppDev/CS/Operators/obj/Debug/net7.0/Operators.AssemblyInfoInputs.cache
+/Users/mert/Desktop/AppDev/CS/Operators/obj/Debug/net7.0/Operators.AssemblyInfo.cs
+/Users/mert/Desktop/AppDev/CS/Operators/obj/Debug/net7.0/Operators.csproj.CoreCompileInputs.cache
+/Users/mert/Desktop/AppDev/CS/Operators/obj/Debug/net7.0/Operators.dll
+/Users/mert/Desktop/AppDev/CS/Operators/obj/Debug/net7.0/refint/Operators.dll
+/Users/mert/Desktop/AppDev/CS/Operators/obj/Debug/net7.0/Operators.pdb
+/Users/mert/Desktop/AppDev/CS/Operators/obj/Debug/net7.0/Operators.genruntimeconfig.cache
+/Users/mert/Desktop/AppDev/CS/Operators/obj/Debug/net7.0/ref/Operators.dll
